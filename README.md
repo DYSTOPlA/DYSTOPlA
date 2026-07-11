@@ -13,6 +13,6 @@ Feel free to **approach and cuddle**, I'm very social and open minded.
 
 <details>
     <summary><sub>links</sub></summary>
-    <sub><a href="https://https://clu2.atabook.org" target="_blank">ata</a></sub>
+    <sub><a href="https://clu2.atabook.org" target="_blank">ata</a></sub>
   </details>
 </div> 
