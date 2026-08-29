@@ -1,18 +1,16 @@
-<img align="center" width="100%" src="https://64.media.tumblr.com/faf08dd1ff4e65f81e2c66039bff2962/de8b73b346a9857d-c4/s1280x1920/5bd64fff67aa0902173ddc56b37e8144fe98fb1e.pnj">
+<div align="center">  
 
-<img align="left" width="34%" src="https://pbs.twimg.com/media/HFl3kt2akAU1_X-?format=png&name=900x900">
+<img align="center" width="100%" src="https://64.media.tumblr.com/cf644c7e8afd0294bb63bbfd5cff64e9/d4b79136d0f51ef1-68/s2048x3072/8f2b518786053b0570018c2011dbf4c9b49f98e8.pnj">
 
- ᅟ
- 
- ᅟ
+<img src="https://readme-typing-svg.herokuapp.com/?font=Sixtyfour+Convergence&size=70&duration=1&repeat=false&color=ffffff&center=true&vCenter=true&width=500&height=100&lines=Info." alt="Info."/>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Nosifer&size=60&duration=1&repeat=false&color=610e03&center=true&vCenter=true&width=450&height=88&lines=Info." alt="Inactive" />
- 
+<img align="center" width="99%" src="https://64.media.tumblr.com/40089161b00ea78012901f8191ff0b59/f13c1c5f318093df-fe/s2048x3072/f5d010f9ebfbf9bd54e22604b0efd68383de5d4f.pnj">
+
 Feel free to **approach and cuddle**, I'm very social and open minded.
 
 <details>
     <summary><sub>links</sub></summary>
     <sub><a href="https://clu2.atabook.org" target="_blank">ata</a></sub>
   </details>
+
 </div> 
