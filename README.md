@@ -10,9 +10,4 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Nosifer&size=60&duration=1&repeat=false&color=610e03&center=true&vCenter=true&width=450&height=88&lines=Info." alt="Inactive" />
  
 Feel free to **approach and cuddle**, I'm very social and open minded.
-
-<details>
-    <summary><sub>links</sub></summary>
-    <sub><a href="https://clu2.atabook.org" target="_blank">ata</a></sub>
-  </details>
 </div>
