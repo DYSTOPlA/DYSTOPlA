@@ -14,7 +14,7 @@
 
 
 <div align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Nosifer&size=50&duration=1&repeat=false&color=610e03&center=true&vCenter=true&width=200&height=80&lines=Info."/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Nosifer&size=50&duration=1&repeat=false&color=611f0c&center=true&vCenter=true&width=200&height=80&lines=Info."/>
 </div>
 
 <div align="right">
