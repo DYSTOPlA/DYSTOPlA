@@ -18,7 +18,9 @@
 </div>
 
 <div align="right">
-Feel free to approach and cuddle, I'm very social and open minded.
+General introduction on <a href="https://w74.straw.page" target="_blank">my straw</a>. 
+ 
+ Feel free to approach and cuddle anytime, I'm very social.
 </div>
 
 <img align="right" width="60%" src="https://64.media.tumblr.com/35f05b857d368946634d81c0e7cdea7e/e04619d06f6120b1-20/s2048x3072/b4f2a7e7cbffaf6971596af609a17c7219eeade4.pnj">
