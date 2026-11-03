@@ -11,8 +11,8 @@
 ᅟ
 
 <p align="center">
-  <a href="https://w74.straw.page">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+Dirt&size=26&duration=1&repeat=false&color=fdca25&center=true&vCenter=true&width=220&height=30&lines=STRAW+INTRO."/>
+  <a href="https://aikotos.carrd.co">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+Dirt&size=26&duration=1&repeat=false&color=fdca25&center=true&vCenter=true&width=220&height=30&lines=INTRO."/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://clu2.atabook.org">
